@@ -38,12 +38,12 @@ number_guessing_game()
 
 
 # Logic Steps:
-# Random number generate karo
-# User se input lo
-# Compare karo
-# Feedback do
-# Loop tab tak chalao jab tak correct na ho
-# Guesses count karo
+# Random number generate karna hai
+# User se input lena hai
+# Compare karna hai
+# Feedback dena hai
+# Loop tab tak chalana hai jab tak correct na ho
+# Guesses count karna hai
 
 
 # SUMMARY
